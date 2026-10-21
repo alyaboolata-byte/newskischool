@@ -16,5 +16,6 @@
       ]
     }
   ],
-  "buildCommand": "python3 .indexnow/prepare.py ."
+  "buildCommand": "python3 .indexnow/prepare.py .",
+  "outputDirectory": "."
 }
