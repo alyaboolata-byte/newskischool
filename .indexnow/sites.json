@@ -1,0 +1,15 @@
+{
+  "project": "newskischool",
+  "sites": [
+    {
+      "host": "newskischool.ru",
+      "projectId": "prj_r6rJNxL7sWIzOI1DKz03uCpoMyyq",
+      "key": "3ef45c1e23ee16863db7016711bf5f52",
+      "keyLocation": "https://newskischool.ru/3ef45c1e23ee16863db7016711bf5f52.txt",
+      "markerUrl": "https://newskischool.ru/indexnow-deployment.json",
+      "fallbackUrls": [
+        "https://newskischool.ru/"
+      ]
+    }
+  ]
+}
